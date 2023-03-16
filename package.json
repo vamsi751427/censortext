@@ -1,0 +1,15 @@
+{
+    "author":"Vamsi",
+    "name":"censorify7514",
+    "version":"0.0.1",
+    "main":"censortext7514",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/vamsi751427/censortext"
+    },
+    "dependencies": {},
+    "keywords": ["censor","text censor"],
+    "engines":{
+        "node":"*"
+    }
+}
